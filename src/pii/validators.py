@@ -32,7 +32,7 @@ def valid_cnpj(s: str) -> bool:
 
 def luhn(s: str) -> bool:
     d = only_digits(s)
-    if not 13 <= len(d) <= 19:
+    if not 12 <= len(d) <= 19:
         return False
     total = 0
     for i, ch in enumerate(reversed(d)):

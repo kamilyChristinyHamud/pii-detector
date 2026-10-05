@@ -18,3 +18,7 @@ def test_cartao_luhn():
 def test_email_e_senha():
     achados = labels("login: ana@example.com senha: abc123XYZ!")
     assert {"EMAIL", "PASSWORD"} <= achados
+
+def test_telefone_nao_vira_cartao():
+    achados = {e["label"] for e in detect("Pode ligar no +55 46 98196-0013")}
+    assert achados == {"PHONE"}

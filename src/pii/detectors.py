@@ -5,7 +5,7 @@ from src.pii.validators import luhn, valid_cnpj, valid_cpf
 PATTERNS = {
     "CPF": re.compile(r"(?<!\d)\d{3}\.?\d{3}\.?\d{3}-?\d{2}(?!\d)"),
     "CNPJ": re.compile(r"(?<!\d)\d{2}\.?\d{3}\.?\d{3}/?\d{4}-?\d{2}(?!\d)"),
-    "CARD": re.compile(r"(?<!\d)(?:\d[ -]?){12,18}\d(?!\d)"),
+    "CARD": re.compile(r"(?<!\d)(?:\d[ -]?){11,18}\d(?!\d)"),
     "EMAIL": re.compile(r"[\w.+-]+@[\w-]+(?:\.[\w-]+)+"),
     "PASSWORD": re.compile(r"(?i)\b(?:senha|password|pwd)\s*[:=]\s*(\S+)"),
     "PHONE": re.compile(
@@ -17,7 +17,7 @@ PATTERNS = {
 VALIDADORES = {"CPF": valid_cpf, "CNPJ": valid_cnpj, "CARD": luhn}
 
 # ordem = prioridade em caso de sobreposição
-PRIORIDADE = ["CPF", "CNPJ", "CARD", "EMAIL", "PASSWORD", "PHONE", "CEP"]
+PRIORIDADE = ["CPF", "CNPJ", "PHONE", "CARD", "EMAIL", "PASSWORD", "CEP"]
 
 
 def detect(texto: str) -> list[dict]:
@@ -37,3 +37,7 @@ def detect(texto: str) -> list[dict]:
         if not any(c["start"] < a["end"] and a["start"] < c["end"] for a in aceitos):
             aceitos.append(c)
     return sorted(aceitos, key=lambda e: e["start"])
+
+def test_telefone_nao_vira_cartao():
+    achados = {e["label"] for e in detect("Pode ligar no +55 46 98196-0013")}
+    assert achados == {"PHONE"}
