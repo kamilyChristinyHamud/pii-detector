@@ -22,3 +22,8 @@ def test_email_e_senha():
 def test_telefone_nao_vira_cartao():
     achados = {e["label"] for e in detect("Pode ligar no +55 46 98196-0013")}
     assert achados == {"PHONE"}
+
+def test_endereco():
+    achados = detect("Moro na Rua das Flores, 123, CEP 80000-000.")
+    enderecos = [e for e in achados if e["label"] == "ADDRESS"]
+    assert len(enderecos) == 1
