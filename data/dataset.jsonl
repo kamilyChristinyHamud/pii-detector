@@ -1,0 +1,300 @@
+{"text": "Contato: Brenda Alves - samuel32@example.net - +55 46 98196-0013", "entities": [{"label": "PERSON", "start": 9, "end": 21}, {"label": "EMAIL", "start": 24, "end": 44}, {"label": "PHONE", "start": 47, "end": 64}]}
+{"text": "Cliente Thiago Pereira, CPF 083.564.791-93, pediu entrega no CEP 02654-235.", "entities": [{"label": "PERSON", "start": 8, "end": 22}, {"label": "CPF", "start": 28, "end": 42}, {"label": "CEP", "start": 65, "end": 74}]}
+{"text": "login: borgesgabrielly@example.org senha: ^5RTiSnXpU", "entities": [{"label": "EMAIL", "start": 7, "end": 34}, {"label": "PASSWORD", "start": 42, "end": 52}]}
+{"text": "A empresa de CNPJ 13.982.650/0001-21 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "A empresa de CNPJ 59.382.016/0001-59 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Pagamento no cartão 3527648350305649 em nome de Heitor Nunes.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 60}]}
+{"text": "Contato: Sra. Hadassa Rezende - pgoncalves@example.com - +55 63 94238-8496", "entities": [{"label": "PERSON", "start": 9, "end": 29}, {"label": "EMAIL", "start": 32, "end": 54}, {"label": "PHONE", "start": 57, "end": 74}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Contato: Maria Liz Fonseca - joao-guilhermemoraes@example.com - +55 43 90122-6916", "entities": [{"label": "PERSON", "start": 9, "end": 26}, {"label": "EMAIL", "start": 29, "end": 61}, {"label": "PHONE", "start": 64, "end": 81}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Código de rastreio 674.805.231-91 registrado na transportadora.", "entities": []}
+{"text": "Cliente Juan Lopes, CPF 270.569.148-02, pediu entrega no CEP 89325-288.", "entities": [{"label": "PERSON", "start": 8, "end": 18}, {"label": "CPF", "start": 24, "end": 38}, {"label": "CEP", "start": 61, "end": 70}]}
+{"text": "Cliente Lorenzo Mendonça, CPF 015.628.937-77, pediu entrega no CEP 71822782.", "entities": [{"label": "PERSON", "start": 8, "end": 24}, {"label": "CPF", "start": 30, "end": 44}, {"label": "CEP", "start": 67, "end": 75}]}
+{"text": "Contato: Vinícius Pereira - icunha@example.net - +55 83 94657-8713", "entities": [{"label": "PERSON", "start": 9, "end": 25}, {"label": "EMAIL", "start": 28, "end": 46}, {"label": "PHONE", "start": 49, "end": 66}]}
+{"text": "A empresa de CNPJ 31.504.782/0001-20 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "A empresa de CNPJ 30.156.874/0001-01 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Cliente Lucas Barbosa, CPF 834.591.726-73, pediu entrega no CEP 76311656.", "entities": [{"label": "PERSON", "start": 8, "end": 21}, {"label": "CPF", "start": 27, "end": 41}, {"label": "CEP", "start": 64, "end": 72}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A empresa de CNPJ 67.059.841/0001-45 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Código de rastreio 513.864.709-11 registrado na transportadora.", "entities": []}
+{"text": "A empresa de CNPJ 24.710.358/0001-76 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Protocolo 5808631930086875 aberto na central de atendimento.", "entities": []}
+{"text": "Código de rastreio 801.675.342-63 registrado na transportadora.", "entities": []}
+{"text": "Contato: Murilo Araújo - gabriellyabreu@example.com - 11 97468-7234", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 51}, {"label": "PHONE", "start": 54, "end": 67}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "login: danilopacheco@example.net senha: %(P0+xX1Wk", "entities": [{"label": "EMAIL", "start": 7, "end": 32}, {"label": "PASSWORD", "start": 40, "end": 50}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Moro na Trevo de Aparecida, 916, CEP 43534-624. Pode ligar no 82 95107-9911.", "entities": [{"label": "ADDRESS", "start": 8, "end": 31}, {"label": "CEP", "start": 37, "end": 46}, {"label": "PHONE", "start": 62, "end": 75}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 83.412.069/0001-50 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Contato: Emanuel Macedo - sarah08@example.com - +55 46 92411-8244", "entities": [{"label": "PERSON", "start": 9, "end": 23}, {"label": "EMAIL", "start": 26, "end": 45}, {"label": "PHONE", "start": 48, "end": 65}]}
+{"text": "Cliente Giovanna Silva, CPF 534.782.091-88, pediu entrega no CEP 00524-278.", "entities": [{"label": "PERSON", "start": 8, "end": 22}, {"label": "CPF", "start": 28, "end": 42}, {"label": "CEP", "start": 65, "end": 74}]}
+{"text": "A empresa de CNPJ 68.079.154/0001-54 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "login: lorenacardoso@example.org senha: %35*jZbX+u", "entities": [{"label": "EMAIL", "start": 7, "end": 32}, {"label": "PASSWORD", "start": 40, "end": 50}]}
+{"text": "Contato: Isadora da Mata - henriquegarcia@example.org - 85 93375-4330", "entities": [{"label": "PERSON", "start": 9, "end": 24}, {"label": "EMAIL", "start": 27, "end": 53}, {"label": "PHONE", "start": 56, "end": 69}]}
+{"text": "A empresa de CNPJ 36.520.849/0001-33 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Contato: Maria Liz Rocha - benjamin14@example.org - 11 90196-5569", "entities": [{"label": "PERSON", "start": 9, "end": 24}, {"label": "EMAIL", "start": 27, "end": 49}, {"label": "PHONE", "start": 52, "end": 65}]}
+{"text": "Código de rastreio 816.492.075-40 registrado na transportadora.", "entities": []}
+{"text": "login: moreirastephany@example.net senha: ^b3LnfAA+H", "entities": [{"label": "EMAIL", "start": 7, "end": 34}, {"label": "PASSWORD", "start": 42, "end": 52}]}
+{"text": "Protocolo 6332296617139656 aberto na central de atendimento.", "entities": []}
+{"text": "Cliente Maria Helena Rocha, CPF 246.809.751-30, pediu entrega no CEP 77738-721.", "entities": [{"label": "PERSON", "start": 8, "end": 26}, {"label": "CPF", "start": 32, "end": 46}, {"label": "CEP", "start": 69, "end": 78}]}
+{"text": "A empresa de CNPJ 48.501.276/0001-80 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Cliente Apollo Aparecida, CPF 371.964.825-73, pediu entrega no CEP 63201-632.", "entities": [{"label": "PERSON", "start": 8, "end": 24}, {"label": "CPF", "start": 30, "end": 44}, {"label": "CEP", "start": 67, "end": 76}]}
+{"text": "Moro na Rua de Martins, 9, CEP 17278895. Pode ligar no 75 99868-7277.", "entities": [{"label": "ADDRESS", "start": 8, "end": 25}, {"label": "CEP", "start": 31, "end": 39}, {"label": "PHONE", "start": 55, "end": 68}]}
+{"text": "Código de rastreio 439.678.152-01 registrado na transportadora.", "entities": []}
+{"text": "login: silvaallana@example.org senha: %+G+3IKr%5", "entities": [{"label": "EMAIL", "start": 7, "end": 30}, {"label": "PASSWORD", "start": 38, "end": 48}]}
+{"text": "Contato: Luiz Gustavo da Rosa - ileao@example.net - +55 88 97346-7065", "entities": [{"label": "PERSON", "start": 9, "end": 29}, {"label": "EMAIL", "start": 32, "end": 49}, {"label": "PHONE", "start": 52, "end": 69}]}
+{"text": "A empresa de CNPJ 62.714.509/0001-53 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Moro na Viaduto de Alves, 7, CEP 72046537. Pode ligar no 33 95646-4170.", "entities": [{"label": "ADDRESS", "start": 8, "end": 27}, {"label": "CEP", "start": 33, "end": 41}, {"label": "PHONE", "start": 57, "end": 70}]}
+{"text": "A empresa de CNPJ 80.517.943/0001-25 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Protocolo 3942252583295001 aberto na central de atendimento.", "entities": []}
+{"text": "Pagamento no cartão 4092327193747 em nome de Sr. Danilo Vasconcelos.", "entities": [{"label": "CARD", "start": 20, "end": 33}, {"label": "PERSON", "start": 45, "end": 67}]}
+{"text": "Código de rastreio 241.809.375-15 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Contato: Joaquim Caldeira - isaque90@example.com - 69 95185-0671", "entities": [{"label": "PERSON", "start": 9, "end": 25}, {"label": "EMAIL", "start": 28, "end": 48}, {"label": "PHONE", "start": 51, "end": 64}]}
+{"text": "Código de rastreio 657.813.924-92 registrado na transportadora.", "entities": []}
+{"text": "Código de rastreio 987.364.210-23 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Protocolo 5980765261449825 aberto na central de atendimento.", "entities": []}
+{"text": "Pagamento no cartão 2257379965075272 em nome de Luiz Gustavo da Luz.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 67}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Contato: Dr. João Guilherme Novais - moreiramateus@example.org - +55 94 96783-7770", "entities": [{"label": "PERSON", "start": 9, "end": 34}, {"label": "EMAIL", "start": 37, "end": 62}, {"label": "PHONE", "start": 65, "end": 82}]}
+{"text": "login: da-rochapedro-miguel@example.com senha: V3RJhve8+(", "entities": [{"label": "EMAIL", "start": 7, "end": 39}, {"label": "PASSWORD", "start": 47, "end": 57}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 23.857.940/0001-05 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Pagamento no cartão 4352408240084 em nome de Davi Lucas Porto.", "entities": [{"label": "CARD", "start": 20, "end": 33}, {"label": "PERSON", "start": 45, "end": 61}]}
+{"text": "Moro na Colônia Apollo Oliveira, 87, CEP 52047-116. Pode ligar no 91 91902-2941.", "entities": [{"label": "ADDRESS", "start": 8, "end": 35}, {"label": "CEP", "start": 41, "end": 50}, {"label": "PHONE", "start": 66, "end": 79}]}
+{"text": "Pagamento no cartão 4869993867740 em nome de Mariane das Neves.", "entities": [{"label": "CARD", "start": 20, "end": 33}, {"label": "PERSON", "start": 45, "end": 62}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Cliente Ana Liz Pimenta, CPF 138.250.946-42, pediu entrega no CEP 20679740.", "entities": [{"label": "PERSON", "start": 8, "end": 23}, {"label": "CPF", "start": 29, "end": 43}, {"label": "CEP", "start": 66, "end": 74}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Moro na Lago Maria Barbosa, 44, CEP 18324-210. Pode ligar no +55 69 94994-7174.", "entities": [{"label": "ADDRESS", "start": 8, "end": 30}, {"label": "CEP", "start": 36, "end": 45}, {"label": "PHONE", "start": 61, "end": 78}]}
+{"text": "Protocolo 0988308904077145 aberto na central de atendimento.", "entities": []}
+{"text": "login: gda-mata@example.net senha: *JC6txnUw7", "entities": [{"label": "EMAIL", "start": 7, "end": 27}, {"label": "PASSWORD", "start": 35, "end": 45}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Código de rastreio 789.214.365-38 registrado na transportadora.", "entities": []}
+{"text": "A empresa de CNPJ 17.532.806/0001-23 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A empresa de CNPJ 56.729.301/0001-05 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "login: diasthiago@example.com senha: @6I1QhYa3S", "entities": [{"label": "EMAIL", "start": 7, "end": 29}, {"label": "PASSWORD", "start": 37, "end": 47}]}
+{"text": "Código de rastreio 932.740.856-01 registrado na transportadora.", "entities": []}
+{"text": "Moro na Quadra Campos, 57, CEP 67737-826. Pode ligar no +55 79 99821-4658.", "entities": [{"label": "ADDRESS", "start": 8, "end": 25}, {"label": "CEP", "start": 31, "end": 40}, {"label": "PHONE", "start": 56, "end": 73}]}
+{"text": "Protocolo 8420055070003524 aberto na central de atendimento.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Pagamento no cartão 4449972787558867538 em nome de Srta. Maria Isis da Conceição.", "entities": [{"label": "CARD", "start": 20, "end": 39}, {"label": "PERSON", "start": 51, "end": 80}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Protocolo 2440634806607811 aberto na central de atendimento.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Protocolo 1148088065007244 aberto na central de atendimento.", "entities": []}
+{"text": "Código de rastreio 605.739.428-39 registrado na transportadora.", "entities": []}
+{"text": "Cliente Ana Carolina Cardoso, CPF 851.630.942-89, pediu entrega no CEP 21745-961.", "entities": [{"label": "PERSON", "start": 8, "end": 28}, {"label": "CPF", "start": 34, "end": 48}, {"label": "CEP", "start": 71, "end": 80}]}
+{"text": "Pagamento no cartão 375780913431619 em nome de Beatriz Macedo.", "entities": [{"label": "CARD", "start": 20, "end": 35}, {"label": "PERSON", "start": 47, "end": 61}]}
+{"text": "Código de rastreio 240.796.513-26 registrado na transportadora.", "entities": []}
+{"text": "Cliente Clara da Cruz, CPF 862.190.374-13, pediu entrega no CEP 92374-740.", "entities": [{"label": "PERSON", "start": 8, "end": 21}, {"label": "CPF", "start": 27, "end": 41}, {"label": "CEP", "start": 64, "end": 73}]}
+{"text": "Código de rastreio 742.039.851-89 registrado na transportadora.", "entities": []}
+{"text": "login: maria-alice43@example.com senha: *Uz9Ha8mc1", "entities": [{"label": "EMAIL", "start": 7, "end": 32}, {"label": "PASSWORD", "start": 40, "end": 50}]}
+{"text": "Protocolo 2677641207030495 aberto na central de atendimento.", "entities": []}
+{"text": "Cliente Luiz Gustavo Câmara, CPF 342.506.718-44, pediu entrega no CEP 21456-232.", "entities": [{"label": "PERSON", "start": 8, "end": 27}, {"label": "CPF", "start": 33, "end": 47}, {"label": "CEP", "start": 70, "end": 79}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Contato: Maria Clara Moura - lucas47@example.com - 37 91712-3685", "entities": [{"label": "PERSON", "start": 9, "end": 26}, {"label": "EMAIL", "start": 29, "end": 48}, {"label": "PHONE", "start": 51, "end": 64}]}
+{"text": "Pagamento no cartão 2290481754965132 em nome de Amanda Pinto.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 60}]}
+{"text": "Contato: Lunna Pimenta - davi-lucasporto@example.com - 22 96120-0471", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 52}, {"label": "PHONE", "start": 55, "end": 68}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Contato: Isaac Nascimento - hellenamarques@example.com - 67 99261-7964", "entities": [{"label": "PERSON", "start": 9, "end": 25}, {"label": "EMAIL", "start": 28, "end": 54}, {"label": "PHONE", "start": 57, "end": 70}]}
+{"text": "A empresa de CNPJ 05.376.129/0001-12 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Código de rastreio 589.032.167-69 registrado na transportadora.", "entities": []}
+{"text": "Contato: Heitor Ramos - aragaobrenda@example.org - +55 54 99318-3933", "entities": [{"label": "PERSON", "start": 9, "end": 21}, {"label": "EMAIL", "start": 24, "end": 48}, {"label": "PHONE", "start": 51, "end": 68}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 52.081.967/0001-49 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Cliente Apollo Cardoso, CPF 053.429.176-70, pediu entrega no CEP 68117758.", "entities": [{"label": "PERSON", "start": 8, "end": 22}, {"label": "CPF", "start": 28, "end": 42}, {"label": "CEP", "start": 65, "end": 73}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Contato: Bianca Machado - caiosiqueira@example.net - 99 94700-7661", "entities": [{"label": "PERSON", "start": 9, "end": 23}, {"label": "EMAIL", "start": 26, "end": 50}, {"label": "PHONE", "start": 53, "end": 66}]}
+{"text": "Código de rastreio 791.024.865-21 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Moro na Vereda de Pacheco, 956, CEP 78961-183. Pode ligar no 71 97365-7661.", "entities": [{"label": "ADDRESS", "start": 8, "end": 30}, {"label": "CEP", "start": 36, "end": 45}, {"label": "PHONE", "start": 61, "end": 74}]}
+{"text": "login: leticia54@example.com senha: #&*g7CcTC)", "entities": [{"label": "EMAIL", "start": 7, "end": 28}, {"label": "PASSWORD", "start": 36, "end": 46}]}
+{"text": "A empresa de CNPJ 94.508.716/0001-48 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Moro na Fazenda Henrique Ferreira, 551, CEP 68998094. Pode ligar no +55 18 92445-5022.", "entities": [{"label": "ADDRESS", "start": 8, "end": 38}, {"label": "CEP", "start": 44, "end": 52}, {"label": "PHONE", "start": 68, "end": 85}]}
+{"text": "A empresa de CNPJ 96.175.042/0001-32 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "login: fernandaleao@example.com senha: fjU&2+Lj8^", "entities": [{"label": "EMAIL", "start": 7, "end": 31}, {"label": "PASSWORD", "start": 39, "end": 49}]}
+{"text": "Código de rastreio 381.290.657-04 registrado na transportadora.", "entities": []}
+{"text": "Pagamento no cartão 180003690034323 em nome de João Vitor Duarte.", "entities": [{"label": "CARD", "start": 20, "end": 35}, {"label": "PERSON", "start": 47, "end": 64}]}
+{"text": "login: abreumaysa@example.net senha: R5Tb2EmKM&", "entities": [{"label": "EMAIL", "start": 7, "end": 29}, {"label": "PASSWORD", "start": 37, "end": 47}]}
+{"text": "Protocolo 3704990229883187 aberto na central de atendimento.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Cliente Nathan Almeida, CPF 527.698.013-68, pediu entrega no CEP 69681645.", "entities": [{"label": "PERSON", "start": 8, "end": 22}, {"label": "CPF", "start": 28, "end": 42}, {"label": "CEP", "start": 65, "end": 73}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "login: brendavasconcelos@example.org senha: R@8DwZ_d6U", "entities": [{"label": "EMAIL", "start": 7, "end": 36}, {"label": "PASSWORD", "start": 44, "end": 54}]}
+{"text": "Contato: Melissa Rodrigues - ana-vitoria27@example.org - 85 97449-0581", "entities": [{"label": "PERSON", "start": 9, "end": 26}, {"label": "EMAIL", "start": 29, "end": 54}, {"label": "PHONE", "start": 57, "end": 70}]}
+{"text": "Pagamento no cartão 4700541199867980796 em nome de Esther Duarte.", "entities": [{"label": "CARD", "start": 20, "end": 39}, {"label": "PERSON", "start": 51, "end": 64}]}
+{"text": "login: jmontenegro@example.org senha: *&Z#eZkXE1", "entities": [{"label": "EMAIL", "start": 7, "end": 30}, {"label": "PASSWORD", "start": 38, "end": 48}]}
+{"text": "Contato: Lívia Azevedo - gabriel86@example.com - +55 97 99251-9254", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 46}, {"label": "PHONE", "start": 49, "end": 66}]}
+{"text": "Contato: Maria Júlia Cardoso - das-nevesfernanda@example.net - 34 92816-8505", "entities": [{"label": "PERSON", "start": 9, "end": 28}, {"label": "EMAIL", "start": 31, "end": 60}, {"label": "PHONE", "start": 63, "end": 76}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Pagamento no cartão 4357332214188805929 em nome de Maria Flor Cassiano.", "entities": [{"label": "CARD", "start": 20, "end": 39}, {"label": "PERSON", "start": 51, "end": 70}]}
+{"text": "login: luiz-miguelsales@example.net senha: Efx7hB5nx#", "entities": [{"label": "EMAIL", "start": 7, "end": 35}, {"label": "PASSWORD", "start": 43, "end": 53}]}
+{"text": "login: svargas@example.com senha: m(86NqTfoo", "entities": [{"label": "EMAIL", "start": 7, "end": 26}, {"label": "PASSWORD", "start": 34, "end": 44}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 82.601.397/0001-31 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Moro na Passarela Montenegro, 73, CEP 53051522. Pode ligar no +55 21 94727-7901.", "entities": [{"label": "ADDRESS", "start": 8, "end": 32}, {"label": "CEP", "start": 38, "end": 46}, {"label": "PHONE", "start": 62, "end": 79}]}
+{"text": "A empresa de CNPJ 04.361.879/0001-58 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "login: renan41@example.org senha: Y%n6RUzf9$", "entities": [{"label": "EMAIL", "start": 7, "end": 26}, {"label": "PASSWORD", "start": 34, "end": 44}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Protocolo 2906803191475196 aberto na central de atendimento.", "entities": []}
+{"text": "Pagamento no cartão 4851888880670658 em nome de Antony Fogaça.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 61}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Cliente Luiz Felipe da Costa, CPF 152.074.836-17, pediu entrega no CEP 72217-043.", "entities": [{"label": "PERSON", "start": 8, "end": 28}, {"label": "CPF", "start": 34, "end": 48}, {"label": "CEP", "start": 71, "end": 80}]}
+{"text": "Moro na Área Dias, CEP 86874-034. Pode ligar no 44 90541-5667.", "entities": [{"label": "ADDRESS", "start": 8, "end": 17}, {"label": "CEP", "start": 23, "end": 32}, {"label": "PHONE", "start": 48, "end": 61}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Pagamento no cartão 6527758416169286 em nome de Lorenzo Caldeira.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 64}]}
+{"text": "Código de rastreio 154.237.809-51 registrado na transportadora.", "entities": []}
+{"text": "Pagamento no cartão 370596401658207 em nome de Pedro Lucas Andrade.", "entities": [{"label": "CARD", "start": 20, "end": 35}, {"label": "PERSON", "start": 47, "end": 66}]}
+{"text": "Cliente Bernardo da Costa, CPF 596.407.123-61, pediu entrega no CEP 57192-856.", "entities": [{"label": "PERSON", "start": 8, "end": 25}, {"label": "CPF", "start": 31, "end": 45}, {"label": "CEP", "start": 68, "end": 77}]}
+{"text": "login: agatha31@example.org senha: G+27LP9qO)", "entities": [{"label": "EMAIL", "start": 7, "end": 27}, {"label": "PASSWORD", "start": 35, "end": 45}]}
+{"text": "Moro na Campo Ísis Nogueira, 34, CEP 58313237. Pode ligar no +55 17 95895-7829.", "entities": [{"label": "ADDRESS", "start": 8, "end": 31}, {"label": "CEP", "start": 37, "end": 45}, {"label": "PHONE", "start": 61, "end": 78}]}
+{"text": "Cliente Benício das Neves, CPF 679.834.051-20, pediu entrega no CEP 77852892.", "entities": [{"label": "PERSON", "start": 8, "end": 25}, {"label": "CPF", "start": 31, "end": 45}, {"label": "CEP", "start": 68, "end": 76}]}
+{"text": "Moro na Praça Montenegro, 2, CEP 42253584. Pode ligar no +55 38 94384-2498.", "entities": [{"label": "ADDRESS", "start": 8, "end": 27}, {"label": "CEP", "start": 33, "end": 41}, {"label": "PHONE", "start": 57, "end": 74}]}
+{"text": "A empresa de CNPJ 18.246.957/0001-88 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "A empresa de CNPJ 95.067.842/0001-77 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Contato: Julia Rezende - larapinto@example.net - +55 18 97844-7364", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 46}, {"label": "PHONE", "start": 49, "end": 66}]}
+{"text": "Moro na Vila Araújo, 77, CEP 73592-555. Pode ligar no 62 92588-1537.", "entities": [{"label": "ADDRESS", "start": 8, "end": 23}, {"label": "CEP", "start": 29, "end": 38}, {"label": "PHONE", "start": 54, "end": 67}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Código de rastreio 147.960.852-12 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Pagamento no cartão 3532595327877478 em nome de Caleb Gonçalves.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 63}]}
+{"text": "A empresa de CNPJ 87.314.209/0001-08 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Pagamento no cartão 4974801624565060985 em nome de Luiz Miguel Novaes.", "entities": [{"label": "CARD", "start": 20, "end": 39}, {"label": "PERSON", "start": 51, "end": 69}]}
+{"text": "Pagamento no cartão 4687849912165585234 em nome de Sophia Guerra.", "entities": [{"label": "CARD", "start": 20, "end": 39}, {"label": "PERSON", "start": 51, "end": 64}]}
+{"text": "Código de rastreio 809.712.345-24 registrado na transportadora.", "entities": []}
+{"text": "Cliente Théo Carvalho, CPF 592.347.861-73, pediu entrega no CEP 70551-694.", "entities": [{"label": "PERSON", "start": 8, "end": 21}, {"label": "CPF", "start": 27, "end": 41}, {"label": "CEP", "start": 64, "end": 73}]}
+{"text": "Pagamento no cartão 3597499309728969 em nome de Joaquim Andrade.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 63}]}
+{"text": "Moro na Condomínio de Correia, 8, CEP 62636-897. Pode ligar no +55 32 92838-5786.", "entities": [{"label": "ADDRESS", "start": 8, "end": 32}, {"label": "CEP", "start": 38, "end": 47}, {"label": "PHONE", "start": 63, "end": 80}]}
+{"text": "Código de rastreio 527.486.931-92 registrado na transportadora.", "entities": []}
+{"text": "A empresa de CNPJ 97.312.450/0001-51 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "login: alicia37@example.com senha: f*US5RDz_$", "entities": [{"label": "EMAIL", "start": 7, "end": 27}, {"label": "PASSWORD", "start": 35, "end": 45}]}
+{"text": "Pagamento no cartão 3533848421993306 em nome de Vitória Câmara.", "entities": [{"label": "CARD", "start": 20, "end": 36}, {"label": "PERSON", "start": 48, "end": 62}]}
+{"text": "Contato: Isabel Aragão - jesusbianca@example.net - 85 91208-2677", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 48}, {"label": "PHONE", "start": 51, "end": 64}]}
+{"text": "Código de rastreio 345.270.869-11 registrado na transportadora.", "entities": []}
+{"text": "Cliente Ana Carolina Cavalcanti, CPF 620.935.184-06, pediu entrega no CEP 04991547.", "entities": [{"label": "PERSON", "start": 8, "end": 31}, {"label": "CPF", "start": 37, "end": 51}, {"label": "CEP", "start": 74, "end": 82}]}
+{"text": "Protocolo 2843720138926395 aberto na central de atendimento.", "entities": []}
+{"text": "Cliente Ísis Moura, CPF 729.810.645-76, pediu entrega no CEP 20549-329.", "entities": [{"label": "PERSON", "start": 8, "end": 18}, {"label": "CPF", "start": 24, "end": 38}, {"label": "CEP", "start": 61, "end": 70}]}
+{"text": "Contato: Maria Luiza Lima - erick61@example.org - +55 62 97530-4637", "entities": [{"label": "PERSON", "start": 9, "end": 25}, {"label": "EMAIL", "start": 28, "end": 47}, {"label": "PHONE", "start": 50, "end": 67}]}
+{"text": "login: bella49@example.net senha: E5b0Iuuri)", "entities": [{"label": "EMAIL", "start": 7, "end": 26}, {"label": "PASSWORD", "start": 34, "end": 44}]}
+{"text": "Pagamento no cartão 4727956878338 em nome de Anna Liz Moura.", "entities": [{"label": "CARD", "start": 20, "end": 33}, {"label": "PERSON", "start": 45, "end": 59}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "login: tmoura@example.com senha: 9sDR0pKb@O", "entities": [{"label": "EMAIL", "start": 7, "end": 25}, {"label": "PASSWORD", "start": 33, "end": 43}]}
+{"text": "Cliente Maria Vitória Marques, CPF 907.528.314-88, pediu entrega no CEP 91065180.", "entities": [{"label": "PERSON", "start": 8, "end": 29}, {"label": "CPF", "start": 35, "end": 49}, {"label": "CEP", "start": 72, "end": 80}]}
+{"text": "Contato: Ravy Andrade - julia22@example.net - 67 95676-6182", "entities": [{"label": "PERSON", "start": 9, "end": 21}, {"label": "EMAIL", "start": 24, "end": 43}, {"label": "PHONE", "start": 46, "end": 59}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Código de rastreio 512.436.870-54 registrado na transportadora.", "entities": []}
+{"text": "Moro na Alameda da Rosa, 78, CEP 33752-431. Pode ligar no +55 19 96903-3119.", "entities": [{"label": "ADDRESS", "start": 8, "end": 27}, {"label": "CEP", "start": 33, "end": 42}, {"label": "PHONE", "start": 58, "end": 75}]}
+{"text": "Moro na Trevo Calebe da Cruz, CEP 67383028. Pode ligar no 18 93959-9534.", "entities": [{"label": "ADDRESS", "start": 8, "end": 28}, {"label": "CEP", "start": 34, "end": 42}, {"label": "PHONE", "start": 58, "end": 71}]}
+{"text": "Código de rastreio 283.795.046-75 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Contato: Mariane Novais - waragao@example.net - 51 98566-2462", "entities": [{"label": "PERSON", "start": 9, "end": 23}, {"label": "EMAIL", "start": 26, "end": 45}, {"label": "PHONE", "start": 48, "end": 61}]}
+{"text": "Código de rastreio 873.612.590-31 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 86.947.130/0001-51 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "login: nicolas51@example.com senha: ^$F1RxlVb4", "entities": [{"label": "EMAIL", "start": 7, "end": 28}, {"label": "PASSWORD", "start": 36, "end": 46}]}
+{"text": "Cliente Gabriel Sousa, CPF 173.549.806-84, pediu entrega no CEP 67854-458.", "entities": [{"label": "PERSON", "start": 8, "end": 21}, {"label": "CPF", "start": 27, "end": 41}, {"label": "CEP", "start": 64, "end": 73}]}
+{"text": "Código de rastreio 791.653.208-50 registrado na transportadora.", "entities": []}
+{"text": "Cliente Dr. Augusto Nunes, CPF 320.845.917-32, pediu entrega no CEP 53693785.", "entities": [{"label": "PERSON", "start": 8, "end": 25}, {"label": "CPF", "start": 31, "end": 45}, {"label": "CEP", "start": 68, "end": 76}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A empresa de CNPJ 47.831.250/0001-37 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Moro na Residencial de Cirino, 108, CEP 00623120. Pode ligar no +55 87 98750-9977.", "entities": [{"label": "ADDRESS", "start": 8, "end": 34}, {"label": "CEP", "start": 40, "end": 48}, {"label": "PHONE", "start": 64, "end": 81}]}
+{"text": "Código de rastreio 096.874.231-97 registrado na transportadora.", "entities": []}
+{"text": "Contato: Theodoro Sampaio - gcavalcanti@example.org - +55 65 93398-4546", "entities": [{"label": "PERSON", "start": 9, "end": 25}, {"label": "EMAIL", "start": 28, "end": 51}, {"label": "PHONE", "start": 54, "end": 71}]}
+{"text": "Moro na Passarela Maria Clara Nunes, CEP 34101666. Pode ligar no 86 90021-7659.", "entities": [{"label": "ADDRESS", "start": 8, "end": 35}, {"label": "CEP", "start": 41, "end": 49}, {"label": "PHONE", "start": 65, "end": 78}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Moro na Rua Aparecida, 83, CEP 01489-025. Pode ligar no +55 15 93926-1429.", "entities": [{"label": "ADDRESS", "start": 8, "end": 25}, {"label": "CEP", "start": 31, "end": 40}, {"label": "PHONE", "start": 56, "end": 73}]}
+{"text": "Contato: Mathias Rocha - hadassa21@example.net - 41 90163-1599", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 46}, {"label": "PHONE", "start": 49, "end": 62}]}
+{"text": "login: uvasconcelos@example.org senha: O_4JZaoXle", "entities": [{"label": "EMAIL", "start": 7, "end": 31}, {"label": "PASSWORD", "start": 39, "end": 49}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "login: heloisadias@example.com senha: @i*&JAj*&1", "entities": [{"label": "EMAIL", "start": 7, "end": 30}, {"label": "PASSWORD", "start": 38, "end": 48}]}
+{"text": "Código de rastreio 468.709.125-31 registrado na transportadora.", "entities": []}
+{"text": "Moro na Esplanada João Lucas da Mata, 84, CEP 12646471. Pode ligar no 45 94379-9371.", "entities": [{"label": "ADDRESS", "start": 8, "end": 40}, {"label": "CEP", "start": 46, "end": 54}, {"label": "PHONE", "start": 70, "end": 83}]}
+{"text": "Código de rastreio 240.398.615-16 registrado na transportadora.", "entities": []}
+{"text": "login: lorena92@example.com senha: N^HBg9WjCg", "entities": [{"label": "EMAIL", "start": 7, "end": 27}, {"label": "PASSWORD", "start": 35, "end": 45}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Pagamento no cartão 4807374167249 em nome de José Ribeiro.", "entities": [{"label": "CARD", "start": 20, "end": 33}, {"label": "PERSON", "start": 45, "end": 57}]}
+{"text": "A empresa de CNPJ 26.803.459/0001-17 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Código de rastreio 689.402.537-11 registrado na transportadora.", "entities": []}
+{"text": "Código de rastreio 520.493.817-61 registrado na transportadora.", "entities": []}
+{"text": "Pagamento no cartão 502043888994 em nome de Pietro Freitas.", "entities": [{"label": "CARD", "start": 20, "end": 32}, {"label": "PERSON", "start": 44, "end": 58}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "login: xmartins@example.net senha: z89u&Egl)k", "entities": [{"label": "EMAIL", "start": 7, "end": 27}, {"label": "PASSWORD", "start": 35, "end": 45}]}
+{"text": "Código de rastreio 795.026.431-44 registrado na transportadora.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Cliente Bianca Rocha, CPF 239.417.850-79, pediu entrega no CEP 22660-937.", "entities": [{"label": "PERSON", "start": 8, "end": 20}, {"label": "CPF", "start": 26, "end": 40}, {"label": "CEP", "start": 63, "end": 72}]}
+{"text": "login: agomes@example.net senha: eyUlR3I(b$", "entities": [{"label": "EMAIL", "start": 7, "end": 25}, {"label": "PASSWORD", "start": 33, "end": 43}]}
+{"text": "login: clarice79@example.org senha: &)4ATdPs_G", "entities": [{"label": "EMAIL", "start": 7, "end": 28}, {"label": "PASSWORD", "start": 36, "end": 46}]}
+{"text": "A empresa de CNPJ 29.563.401/0001-31 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Código de rastreio 072.134.568-91 registrado na transportadora.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Moro na Praia de Mendonça, 11, CEP 40438427. Pode ligar no 92 98819-1485.", "entities": [{"label": "ADDRESS", "start": 8, "end": 29}, {"label": "CEP", "start": 35, "end": 43}, {"label": "PHONE", "start": 59, "end": 72}]}
+{"text": "Protocolo 4657976266092381 aberto na central de atendimento.", "entities": []}
+{"text": "Cliente Ana Cecília Teixeira, CPF 783.901.254-04, pediu entrega no CEP 51713-395.", "entities": [{"label": "PERSON", "start": 8, "end": 28}, {"label": "CPF", "start": 34, "end": 48}, {"label": "CEP", "start": 71, "end": 80}]}
+{"text": "A empresa de CNPJ 96.241.580/0001-88 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Protocolo 6748573316888728 aberto na central de atendimento.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Protocolo 0284869598675858 aberto na central de atendimento.", "entities": []}
+{"text": "Protocolo 2434083790854923 aberto na central de atendimento.", "entities": []}
+{"text": "Código de rastreio 954.761.238-74 registrado na transportadora.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 49.173.025/0001-86 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Protocolo 4032373782005936 aberto na central de atendimento.", "entities": []}
+{"text": "Cliente Davi Lucca da Cruz, CPF 253.687.401-07, pediu entrega no CEP 67116-845.", "entities": [{"label": "PERSON", "start": 8, "end": 26}, {"label": "CPF", "start": 32, "end": 46}, {"label": "CEP", "start": 69, "end": 78}]}
+{"text": "Cliente Raquel Duarte, CPF 901.532.847-14, pediu entrega no CEP 63745458.", "entities": [{"label": "PERSON", "start": 8, "end": 21}, {"label": "CPF", "start": 27, "end": 41}, {"label": "CEP", "start": 64, "end": 72}]}
+{"text": "A empresa de CNPJ 92.768.043/0001-30 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "A empresa de CNPJ 70.169.348/0001-92 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Cliente Gabriela Sales, CPF 249.670.518-20, pediu entrega no CEP 20643-611.", "entities": [{"label": "PERSON", "start": 8, "end": 22}, {"label": "CPF", "start": 28, "end": 42}, {"label": "CEP", "start": 65, "end": 74}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Pagamento no cartão 567129387005 em nome de Sra. Bárbara Lima.", "entities": [{"label": "CARD", "start": 20, "end": 32}, {"label": "PERSON", "start": 44, "end": 61}]}
+{"text": "A empresa de CNPJ 27.183.045/0001-03 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Pagamento no cartão 374262218909277 em nome de Sr. Dom Jesus.", "entities": [{"label": "CARD", "start": 20, "end": 35}, {"label": "PERSON", "start": 47, "end": 60}]}
+{"text": "Protocolo 6526716718910369 aberto na central de atendimento.", "entities": []}
+{"text": "Código de rastreio 973.061.524-17 registrado na transportadora.", "entities": []}
+{"text": "A empresa de CNPJ 56.981.723/0001-73 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Contato: Josué Novaes - benjamim43@example.net - 96 93640-3761", "entities": [{"label": "PERSON", "start": 9, "end": 21}, {"label": "EMAIL", "start": 24, "end": 46}, {"label": "PHONE", "start": 49, "end": 62}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "A empresa de CNPJ 37.140.265/0001-03 solicitou a nota fiscal.", "entities": [{"label": "CNPJ", "start": 18, "end": 36}]}
+{"text": "Contato: Mariah Fonseca - maria-juliavargas@example.org - +55 15 99104-3006", "entities": [{"label": "PERSON", "start": 9, "end": 23}, {"label": "EMAIL", "start": 26, "end": 55}, {"label": "PHONE", "start": 58, "end": 75}]}
+{"text": "login: melissa66@example.net senha: R&&1UyrCVi", "entities": [{"label": "EMAIL", "start": 7, "end": 28}, {"label": "PASSWORD", "start": 36, "end": 46}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Contato: Joaquim Borges - dcamargo@example.net - +55 31 94210-2027", "entities": [{"label": "PERSON", "start": 9, "end": 23}, {"label": "EMAIL", "start": 26, "end": 46}, {"label": "PHONE", "start": 49, "end": 66}]}
+{"text": "A reunião será na terça às 14h na sala 3.", "entities": []}
+{"text": "Cliente Dr. Enzo Freitas, CPF 241.609.375-43, pediu entrega no CEP 91778-507.", "entities": [{"label": "PERSON", "start": 8, "end": 24}, {"label": "CPF", "start": 30, "end": 44}, {"label": "CEP", "start": 67, "end": 76}]}
+{"text": "Moro na Esplanada de Freitas, 24, CEP 38000307. Pode ligar no 46 96220-8635.", "entities": [{"label": "ADDRESS", "start": 8, "end": 32}, {"label": "CEP", "start": 38, "end": 46}, {"label": "PHONE", "start": 62, "end": 75}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Código de rastreio 365.204.879-20 registrado na transportadora.", "entities": []}
+{"text": "Moro na Rua Aparecida, 81, CEP 45187-053. Pode ligar no 18 99493-7597.", "entities": [{"label": "ADDRESS", "start": 8, "end": 25}, {"label": "CEP", "start": 31, "end": 40}, {"label": "PHONE", "start": 56, "end": 69}]}
+{"text": "Contato: Yago Teixeira - kevinabreu@example.com - +55 17 93850-5064", "entities": [{"label": "PERSON", "start": 9, "end": 22}, {"label": "EMAIL", "start": 25, "end": 47}, {"label": "PHONE", "start": 50, "end": 67}]}
+{"text": "Resumo do pedido: 2 itens, total de R$ 189,90, sem dados pessoais.", "entities": []}
+{"text": "Moro na Rua da Costa, CEP 70241-038. Pode ligar no 65 95719-1826.", "entities": [{"label": "ADDRESS", "start": 8, "end": 20}, {"label": "CEP", "start": 26, "end": 35}, {"label": "PHONE", "start": 51, "end": 64}]}
+{"text": "Cliente Bento Lopes, CPF 234.968.517-91, pediu entrega no CEP 31329-121.", "entities": [{"label": "PERSON", "start": 8, "end": 19}, {"label": "CPF", "start": 25, "end": 39}, {"label": "CEP", "start": 62, "end": 71}]}
+{"text": "Código de rastreio 278.930.641-97 registrado na transportadora.", "entities": []}
+{"text": "Protocolo 1968747928544728 aberto na central de atendimento.", "entities": []}
+{"text": "Contato: Ravi da Luz - borgeslevi@example.net - 22 99035-2135", "entities": [{"label": "PERSON", "start": 9, "end": 20}, {"label": "EMAIL", "start": 23, "end": 45}, {"label": "PHONE", "start": 48, "end": 61}]}
+{"text": "login: dmoraes@example.net senha: wp%4*Fa(%j", "entities": [{"label": "EMAIL", "start": 7, "end": 26}, {"label": "PASSWORD", "start": 34, "end": 44}]}
+{"text": "Protocolo 2463081273872090 aberto na central de atendimento.", "entities": []}
