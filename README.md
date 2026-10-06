@@ -41,7 +41,7 @@ cd pii-detector
 python -m venv venv
 venv\Scripts\activate
 
-pip install presidio-analyzer faker spacy
+pip install -r requirements.txt
 python -m spacy download pt_core_news_sm
 ```
 
