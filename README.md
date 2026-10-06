@@ -53,6 +53,6 @@ python -m spacy download pt_core_news_sm
 - Criar uma interface de linha de comando
 
 
-Kamily Hamud, estudante de Cibersegurança na PUCPR.
+Kamily Hamud, estudante de Cibersegurança.
 
-[LinkedIn](https://www.linkedin.com/in/kamily-hamud) | [GitHub](https://github.com/kamilyChristinyHamud)
+[LinkedIn](https://www.linkedin.com/in/kamily-hamud) 
